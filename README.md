@@ -1,4 +1,6 @@
 # getdatacourseproj
+Line by line commentary of the run_analysis script
+
 1. Load feature labels from featueres.txt
 2. Load test datafrom X_test.txt using colnames from step 1
 3. load training data from X_train.txt
